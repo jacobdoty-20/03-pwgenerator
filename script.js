@@ -6,6 +6,10 @@ var upCase;
 var numeric;
 var specialChar;
 
+function getInputs() {
+  prompt()
+}
+
 // Write password to the #password input
 function writePassword() {
   var password = generatePassword();
